@@ -1,6 +1,6 @@
 # Noise Reduction App
 
-Este repositório contém uma aplicação de redução de ruído em tempo real que pode ser utilizada com qualquer aplicação de áudio no Windows.
+Este repositório contém uma aplicação de redução de ruído em tempo real que desenvolvi e que pode ser utilizada com qualquer aplicação de áudio no Windows.
 
 ## Estrutura do Projeto
 
